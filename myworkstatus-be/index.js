@@ -1,0 +1,2 @@
+const AdminServer = require('./server');
+
